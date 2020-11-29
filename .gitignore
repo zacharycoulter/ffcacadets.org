@@ -1,0 +1,14 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# Testing file
+testing.ts
+
+# Typescript directories
+.build
+dist/
+.idea/
